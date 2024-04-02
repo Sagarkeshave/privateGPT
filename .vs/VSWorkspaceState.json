@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github",
+    "\\fern",
+    "\\fern\\docs",
+    "\\fern\\docs\\assets",
+    "\\fern\\docs\\pages",
+    "\\fern\\docs\\pages\\api-reference",
+    "\\fern\\docs\\pages\\recipes",
+    "\\models",
+    "\\private_gpt"
+  ],
+  "SelectedNode": "\\private_gpt\\__main__.py",
+  "PreviewInSolutionExplorer": false
+}

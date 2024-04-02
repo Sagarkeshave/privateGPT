@@ -1,0 +1,6 @@
+runtime: python311
+entrypoint: python -m uvicorn private_gpt.main:app 
+
+handlers:
+- url: /.*
+  script: auto
